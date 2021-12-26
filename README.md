@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Laiju</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laijupjoy&label=Profile%20views&color=0e75b6&style=flat" alt="laijupjoy" /> </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Laiju</h1>
 
 - 📫How to reach me **laijupjoy01@gmail.com**
+
+### I have technical experience and interest in -
+* Machine Learning
+* Deep Learning
+* Computer Vision 
+* Natural Language Processing
+* MLOps
+* AWS
+* Embedded Systems & IoT
+* Robotics
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
