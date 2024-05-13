@@ -4,12 +4,14 @@
 - 📫How to reach me **laijupjoy01@gmail.com**
 
 ### I have technical experience and interest in -
+* Big Data
 * Machine Learning
 * Deep Learning
 * Computer Vision 
 * Natural Language Processing
 * MLOps
 * AWS
+* AZURE
 * Embedded Systems & IoT
 * Robotics
 
