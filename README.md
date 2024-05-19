@@ -7,6 +7,7 @@
 * Big Data Engineering
 * Machine Learning
 * Deep Learning
+* Computer Vision
 * MLOps
 * AWS
 * AZURE
